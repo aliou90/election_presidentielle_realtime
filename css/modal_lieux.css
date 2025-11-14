@@ -1,0 +1,15 @@
+/* ---------------------------------------------------------
+Stylisation du modal pour l'affichage des lieux et bureaux */
+.modal-full {
+    width: 100vw !important;
+    max-width: 100% !important;
+}
+
+.modal-full .modal-dialog {
+    max-width: none !important;
+    width: 100% !important;
+}
+
+.modal-full .modal-content {
+    border: none !important;
+}
