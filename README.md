@@ -23,10 +23,13 @@ Permet de suivre les résultats globaux et par entités administratives avec des
 ## Vidéo de démonstration
 Visualisation de l’application en action :  
 
-<video width="800" controls>
-  <source src="https://youtu.be/ku0ozZZu2MA" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture de vidéos.
-</video>
+<iframe width="800" height="450" 
+    src="https://www.youtube.com/embed/ku0ozZZu2MA" 
+    title="Vidéo Démonstration Élection Présidentielle" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
 
 ---
 
