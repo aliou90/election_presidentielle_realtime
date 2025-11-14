@@ -33,15 +33,15 @@ Visualisation de l’application en action :
 ---
 
 ## Structure du projet
-assets/ # CSS, JS, images
-assets/screenshots/ # Screenshots pour README
-database/ # Scripts SQL et connexion MySQL
-videos/ # Vidéo de démonstration
-public/ # Fichiers accessibles via navigateur
-index.php # Page principale
-login.php # Page de connexion sécurisée
-dashboard/ # Interfaces selon rôle et entité
-includes/ # Fonctions utilitaires et templates
+- assets/ # CSS, JS, images
+- assets/screenshots/ # Screenshots pour README
+- database/ # Scripts SQL et connexion MySQL
+- videos/ # Vidéo de démonstration
+- public/ # Fichiers accessibles via navigateur
+- index.php # Page principale
+- login.php # Page de connexion sécurisée
+- dashboard/ # Interfaces selon rôle et entité
+- includes/ # Fonctions utilitaires et templates
 
 ## Installation
 
