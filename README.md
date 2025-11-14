@@ -24,7 +24,7 @@ Permet de suivre les résultats globaux et par entités administratives avec des
 Visualisation de l’application en action :  
 
 <video width="800" controls>
-  <source src="![Interface du projet](videos/projet_web_election.mp4)" type="video/mp4">
+  <source src="https://youtu.be/ku0ozZZu2MA" type="video/mp4">
   Votre navigateur ne supporte pas la lecture de vidéos.
 </video>
 
