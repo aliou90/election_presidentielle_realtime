@@ -73,5 +73,5 @@ php config/build-datasystem.php
 5. Accéder via navigateur :
 http://localhost/election_presidentielle
 
-** Auteur
+**Auteur**
 Aliou Mbengue – alioumbengue2828@gmail.com
