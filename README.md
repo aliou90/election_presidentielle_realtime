@@ -12,9 +12,9 @@ Permet de suivre les résultats globaux et par entités administratives avec des
 - **Affichage détaillé des résultats par bureau de vote** (modal)
 - **Interface sécurisée avec rôles** :
   - Admin  
-  - CENA (National)  
-  - CER (Régional)  
-  - CED (Départemental)  
+  - CENA (Commission Électorale Nationale Autonome)  
+  - CER (Commission Électorale Régionale)  
+  - CED (Commission Électorale Départementale)  
   - Bureau (saisie des résultats une seule fois)
 - **Temps réel** : les résultats sont mis à jour et recalculés automatiquement
 
@@ -24,7 +24,7 @@ Permet de suivre les résultats globaux et par entités administratives avec des
 Visualisation de l’application en action :  
 
 <video width="800" controls>
-  <source src="videos/projet_web_election.mp4" type="video/mp4">
+  <source src="![Interface du projet](videos/projet_web_election.mp4)" type="video/mp4">
   Votre navigateur ne supporte pas la lecture de vidéos.
 </video>
 
